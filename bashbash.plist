@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CFBundleDevelopmentRegion</key>
+	<string>zh-hk</string>
+	<key>CFBundleExecutable</key>
+	<string>${EXECUTABLE_NAME}</string>
+	<key>CFBundleIconFile</key>
+	<string>game_icon.png</string>
+	<key>CFBundleIconFiles</key>
+	<array>
+		<string>game_icon.png</string>
+		<string>game_icon@2x.png</string>
+	</array>
+	<key>CFBundleIdentifier</key>
+	<string>com.kennytang</string>
+	<key>CFBundleInfoDictionaryVersion</key>
+	<string>6.0</string>
+	<key>CFBundleLocalizations</key>
+	<array>
+		<string>zh-hk</string>
+		<string>zh-Hans</string>
+		<string>zh_TW</string>
+		<string>en</string>
+	</array>
+	<key>CFBundleName</key>
+	<string>BashBashVS</string>
+	<key>CFBundlePackageType</key>
+	<string>APPL</string>
+	<key>CFBundleSignature</key>
+	<string>????</string>
+	<key>CFBundleVersion</key>
+	<string>1.4</string>
+	<key>LSHasLocalizedDisplayName</key>
+	<true/>
+	<key>LSRequiresIPhoneOS</key>
+	<true/>
+	<key>NSMainNibFile</key>
+	<string>MainWindow</string>
+	<key>UIApplicationExitsOnSuspend</key>
+	<true/>
+	<key>UILaunchImageFile</key>
+	<string>Default.png</string>
+	<key>UIPrerenderedIcon</key>
+	<true/>
+	<key>UIStatusBarHidden</key>
+	<true/>
+</dict>
+</plist>
